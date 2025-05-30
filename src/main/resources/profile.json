@@ -1,0 +1,75 @@
+{
+  "name": "Akash Chandru C T",
+  "about": "I'm an aspiring AI Engineer with a strong background in web development and a passion for building intelligent applications.",
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "Python",
+    "React",
+    "SQL",
+    "React Js",
+    "Git",
+    "Node Js",
+    ""
+  ],
+  "projects": [
+    {
+      "name": "Smart Home Automation using LoRa",
+      "description" : "This project implements a smart home automation system leveraging LoRa (Long Range) wireless technology to enable low-power, long-distance communication between home devices and a centralized controller. The system allows users to remotely monitor and control appliances (such as lights, fans, and security sensors) via a user-friendly dashboard or mobile interface, ensuring reliable automation even in areas with limited internet connectivity.",
+      "technologyUsed" : "Embedded C , Arduino"
+    },
+    {
+      "name" : "RACPad Enterprice application",
+      "description" : "RACPAD is an enterprise-grade web application designed to streamline product lifecycle management for Rent-A-Center. The platform facilitates centralized administration of product data, including inventory tracking, pricing updates, availability configurations, and compliance checks. Built with a scalable microservices architecture, RACPAD enhances operational efficiency by enabling seamless integration with existing business systems such as ERP and CRM modules.",
+      "technologyUsed" : "React Js, Node Js, AWS, PostgreSQL"
+    },
+    {
+      "name": "SQLify",
+      "description": "SQLify is a web-based learning platform designed to help students and beginners master SQL through hands-on practice. The application offers a curated set of SQL problems, a built-in SQL editor, and real-time feedback using a sandboxed execution environment. It supports two user roles — students, who solve exercises and track progress, and admins, who create and manage SQL problems.",
+      "technologyUsed" : "MySQL, React Js, Node Js, Google Cloud Platform"
+    },
+    {
+      "name": "Portfolio Chatbot",
+      "description": "An interactive chatbot embedded in my portfolio that answers questions using Gemini API and JSON-based profile data.",
+      "technologyUsed" : "Java, Spring Boot , Maven ,  React Js ,  Gemini API"
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Engineering in Electronics and Communication",
+    "university": "Anna University",
+    "cgpa": 8.54
+  },
+  "experience": [
+    {
+      "company": "Ether Infotech",
+      "role": "Software Intern",
+      "duration": "3 months",
+      "description": "Developed a desktop inventory management system in Java."
+    },
+    {
+      "company": "Avasoft",
+      "role": "Junior Software Engineer",
+      "duration": "1.8 years",
+      "description": "Reduced the response time of the old application by 40% using react and Node js. Worked on enterprise solutions involving frontend/backend integration, REST APIs, and data models."
+    },
+    {
+      "company": "AppifyX",
+      "role": "Freelancing Developer",
+      "duration": "8 months",
+      "description": "Creative and detail-oriented freelance web developer specializing in building responsive, user-friendly websites using modern technologies like HTML, CSS, JavaScript, React, and Node.js. Experienced in turning ideas into fully functional digital products for businesses and individuals. Always focused on clean code, performance, and client satisfaction."
+    }
+  ],
+  "contact": {
+    "email": "akashchandru613@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/akash-chandru-185692217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "github": "https://github.com/Akashchandru613"
+  },
+  "hobbies": {
+    "Hobby1" : "Cricket",
+    "Hobby2" : "Listening to Music",
+    "Hobby3" : "Badminton",
+    "Hobby4" : "Table Tennis",
+    "Hobby5" : "Hiking",
+    "Hobby6" : "Coding"
+  }
+}
